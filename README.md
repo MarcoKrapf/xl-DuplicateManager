@@ -35,9 +35,7 @@
 * Selection of multiple ranges on the worksheet while holding down the Ctrl key
 * Ignore upper/lower-case letters and/or blanks for the search if needed
 * Coloured highlighting of duplicates on the worksheet
-* Ausgeben der Duplikate auf einem neuen Tabellenblatt, auch als ganze Zeile
 * Output the duplicates or optionally the whole lines on a new worksheet
 * Delete and restore the duplicates on the worksheet, optionally with compression
-* Springen zu einem einzelnen Duplikat durch Anklicken im Duplikatfenster
 * Jump to a single duplicate by clicking in the duplicate window
 * Non-destructive behavior as long as the selection is not changed and the tool is not closed
